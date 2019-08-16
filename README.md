@@ -1,7 +1,7 @@
 # Film Library Project
 ## Projenin Amacı
 
-Merhaba Film Kütüphane Projesi'nin amacı beğendiğiniz filmlerinizi kaydebileceğiniz veya IMDb'den veri alarak istediğiniz filmleri ekleyebileceğiniz bir masaüstü uygulamasıdır.
+Merhaba Film Kütüphane Projesi'nin amacı beğendiğiniz filmlerinizi kaydebileceğiniz veya IMDb'den veri alarak istediğiniz filmleri ekleyebileceğiniz bir masaüstü uygulamasıdır.<br/><br/>
 ![Uygulamanın ana form resmi](https://github.com/GurhanGdk/Film-Library-Project/blob/master/Project%20Pictures/Form1.png)
 
 ## Programın Kullanımı
