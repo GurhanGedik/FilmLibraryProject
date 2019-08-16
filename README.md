@@ -19,4 +19,7 @@ Merhaba Film Kütüphane Projesi amacı beğendiğiniz filmlerinizi kaydebilece�
 </ul>
 
 # UYARI
-Programın doğru ve düzgün çalışabilmesi için lütfen database ayarlarını doğru yaptığınızdan emin olun.
+<ul>
+  <li>Programın doğru ve düzgün çalışabilmesi için lütfen database ayarlarını doğru yaptığınızdan emin olun.</li>
+  <li>Database ile ilgili gerekli dosyalar "Database Files" klasörü içerisinde yer almaktadır.</li>
+</ul>
