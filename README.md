@@ -1,2 +1,2 @@
 # Film-Library-Project
-deneme
+Merhaba projenin sağlıklı çalışabilmesi için ilk önce "Database Files" klasöründeki database kurmayı unutmayın sonrasında sql ayarlarını yapmayı unutmayınız.
