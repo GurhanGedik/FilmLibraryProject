@@ -10,7 +10,9 @@ Merhaba Film Kütüphane Projesi amacı beğendiğiniz filmlerinizi kaydebilece�
   <li>Çektiğiniz film arama sonuçları bölümünde gözükecektir kaydetmek isterseniz kaydet butonuna basmanız yeterlidir.</li>
 </ul>
 <br/><br/>
+
 ![Uygulamada kullanılan katmanlı mimari](https://github.com/GurhanGdk/Film-Library-Project/blob/master/Project%20Pictures/SolutionExplorer.png)
+
 <br/><br/>
 Projede 4 katmanlı bir mimari kullanıldı.
 <br/><br/>
