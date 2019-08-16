@@ -10,11 +10,13 @@ Merhaba Film Kütüphane Projesi amacı beğendiğiniz filmlerinizi kaydebilece�
   <li>Film arama bölümünden daha önce kaydettiğiniz filmlerinize ulaşabilir yada film adı ve tarih bölümünü doldurarak istediğiniz filmi IMDb'den çekebilirsiniz.</li>
   <li>Çektiğiniz film arama sonuçları bölümünde gözükecektir kaydetmek isterseniz kaydet butonuna basmanız yeterlidir.</li>
 </ul>
-<br/><br/>
 
+## Projede Kullanılan Katmanlı Mimari
 ![Uygulamada kullanılan katmanlı mimari](https://github.com/GurhanGdk/Film-Library-Project/blob/master/Project%20Pictures/SolutionExplorer.png)
 
-Projede 4 katmanlı bir mimari kullanıldı.
+<ul>
+  <li>Projede 4 katmanlı bir mimari kullanıldı.</li>
+</ul>
 
 # UYARI
 Programın doğru ve düzgün çalışabilmesi için lütfen database ayarlarını doğru yaptığınızdan emin olun.
