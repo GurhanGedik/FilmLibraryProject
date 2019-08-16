@@ -11,7 +11,7 @@ Merhaba Film Kütüphane Projesi amacı beğendiğiniz filmlerinizi kaydebilece�
   <li>Çektiğiniz film arama sonuçları bölümünde gözükecektir kaydetmek isterseniz kaydet butonuna basmanız yeterlidir.</li>
 </ul>
 
-## Projede Kullanılan Katmanlı Mimari
+## Katmanlı Mimari
 ![Uygulamada kullanılan katmanlı mimari](https://github.com/GurhanGdk/Film-Library-Project/blob/master/Project%20Pictures/SolutionExplorer.png)
 
 <ul>
