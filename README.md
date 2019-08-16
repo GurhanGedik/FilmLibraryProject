@@ -1,4 +1,4 @@
-# Film-Library-Project
+# Film Library Project
 ## Projenin Amacı
 
 Merhaba Film Kütüphane Projesi amacı beğendiğiniz filmlerinizi kaydebileceğiniz veya IMDb'den veri alarak istediğiniz filmleri ekleyebileceğiniz bir masaüstü uygulamasıdır. <br/><br/>
